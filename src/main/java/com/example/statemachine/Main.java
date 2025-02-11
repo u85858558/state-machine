@@ -1,6 +1,6 @@
-package src.com.example.statemachine;
+package com.example.statemachine;
 
-import src.com.example.statemachine.context.OrderContext;
+import com.example.statemachine.context.OrderContext;
 
 public class Main {
     public static void main(String[] args) {

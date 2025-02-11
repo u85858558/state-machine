@@ -1,6 +1,6 @@
-package src.com.example.statemachine.states;
+package com.example.statemachine.states;
 
-import src.com.example.statemachine.context.OrderContext;
+import com.example.statemachine.context.OrderContext;
 
 public class DeliveredState implements OrderState {
     @Override

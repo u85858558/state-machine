@@ -1,7 +1,7 @@
-package src.com.example.statemachine.context;
+package com.example.statemachine.context;
 
-import src.com.example.statemachine.states.NewState;
-import src.com.example.statemachine.states.OrderState;
+import com.example.statemachine.states.NewState;
+import com.example.statemachine.states.OrderState;
 
 public class OrderContext {
     private OrderState state;
